@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# vim
+.*.swp
+
+# MNIST data files
+tensorflow/tutorials/MNIST/data
